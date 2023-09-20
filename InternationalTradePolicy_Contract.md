@@ -1,8 +1,8 @@
-##Positions:##
+## Positions: ##
 Task Manager> makes sure we make the deadline for each task.
 Group Facilitator: In charge of getting group together, to meet.
 
-##What are our team goals:##
+## What are our team goals: ##
   1. Find valid articles
   2. Find specific area to study
   3. Create thesis
@@ -20,3 +20,4 @@ Group Facilitator: In charge of getting group together, to meet.
 ##Policy and Proceedures that we agree on to meet our goals of this project:##
   - Distribute 
 
+** Bold **
