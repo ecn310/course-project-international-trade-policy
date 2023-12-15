@@ -1,0 +1,6 @@
+- Reaserch question
+- Hypothesis
+- Where data comes from?
+- What we used to compile the data?
+- Key points
+- Link to documentation.
