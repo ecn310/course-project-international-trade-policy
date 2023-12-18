@@ -6,9 +6,10 @@ To test our hypothesis we gathered data from WITS and EUROSTATS to study the pro
 
 Through our research project, we found that our hypothesis was correct, however, we also discovered a couple of cavities, such as a decrease in the value of EU-US exports during 2020 due to Covid decrease in supply and demand.
 
-Attached is our documentation and codebook
+Attached is our documentation
 - https://docs.google.com/document/d/1lg3UZy_oyXn4eRMYUL5sfDyWxJfwwx_o6hXMsIe5m0U/edit?usp=sharing
 
+Attached is our R script
 - https://github.com/ecn310/course-project-international-trade-policy/blob/a81b1bdd78ebec18d8d21196e9bb1de01ff225af/310%20Plots.R
 
 
