@@ -9,11 +9,6 @@ Through our research project, we found that our hypothesis was correct, however,
 Attached is our documentation and codebook
 - https://docs.google.com/document/d/1lg3UZy_oyXn4eRMYUL5sfDyWxJfwwx_o6hXMsIe5m0U/edit?usp=sharing
 
-Attached here is our China-US data
-- https://sumailsyr-my.sharepoint.com/:x:/r/personal/sqmcfarl_syr_edu/Documents/Desktop/Econ310/ECN%20310/United%20States%20Product%20Imports%20from%20China.csv?d=wd6a7f0754b44472f9de49d122f795a0b&csf=1&web=1&e=kQVGPj
-
-Attached here is our EU-US data
-- https://sumailsyr-my.sharepoint.com/:x:/r/personal/sqmcfarl_syr_edu/Documents/Desktop/Econ310/ECN%20310/data-17844025.csv?d=weaaae60352bb48ceb10418a43b6e8d81&csf=1&web=1&e=HaMHow
 
 OneDrive Link contaonong Datasets:
-https://sumailsyr-my.sharepoint.com/:f:/r/personal/arajesh_syr_edu/Documents/ECN%20310%20Int%20Trade%20Policy/Main%20Datasets?csf=1&web=1&e=r9HzmJ
+- https://sumailsyr-my.sharepoint.com/:f:/r/personal/arajesh_syr_edu/Documents/ECN%20310%20Int%20Trade%20Policy/Main%20Datasets?csf=1&web=1&e=r9HzmJ
