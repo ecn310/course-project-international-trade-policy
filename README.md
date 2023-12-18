@@ -9,6 +9,8 @@ Through our research project, we found that our hypothesis was correct, however,
 Attached is our documentation and codebook
 - https://docs.google.com/document/d/1lg3UZy_oyXn4eRMYUL5sfDyWxJfwwx_o6hXMsIe5m0U/edit?usp=sharing
 
+- https://github.com/ecn310/course-project-international-trade-policy/blob/a81b1bdd78ebec18d8d21196e9bb1de01ff225af/310%20Plots.R
+
 
 OneDrive Link contaonong Datasets:
 - https://sumailsyr-my.sharepoint.com/:f:/r/personal/arajesh_syr_edu/Documents/ECN%20310%20Int%20Trade%20Policy/Main%20Datasets?csf=1&web=1&e=r9HzmJ
