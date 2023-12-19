@@ -10,7 +10,7 @@ Attached is our Reaserch Project Report
 - 
 
 ## Attached is our documentation
-- https://docs.google.com/document/d/1lg3UZy_oyXn4eRMYUL5sfDyWxJfwwx_o6hXMsIe5m0U/edit?usp=sharing
+- [https://docs.google.com/document/d/1lg3UZy_oyXn4eRMYUL5sfDyWxJfwwx_o6hXMsIe5m0U/edit?usp=sharing](https://github.com/ecn310/course-project-international-trade-policy/blob/85d3fcfc3fa34bd4af23342995025e3208571bc6/Documentation%20Report%20final.pdf)
 
 ## Attached is our R script
 - https://github.com/ecn310/course-project-international-trade-policy/blob/a81b1bdd78ebec18d8d21196e9bb1de01ff225af/310%20Plots.R
