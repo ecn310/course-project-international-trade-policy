@@ -12,7 +12,8 @@ Through our research project, we found that our hypothesis was correct, however,
 
 #### Attached is our Reaserch Project Report
 - https://github.com/ecn310/course-project-international-trade-policy/blob/1d466b1511f066ec24e6043a1cb2dd4ac49e8ca3/Final%20Paper_What%20are%20the%20impacts%20of%20US%20trade%20policy%20changes%20on%20trade%20with%20the%20European%20Union%3Fpdf.pdf
-- httpse://www.overleaf.com/read/vkndmdyrdhzh#f5c8ca linked here
+  
+- www.overleaf.com/read/vkndmdyrdhzh#f5c8ca
 
 #### Attached is our documentation
 - [https://docs.google.com/document/d/1lg3UZy_oyXn4eRMYUL5sfDyWxJfwwx_o6hXMsIe5m0U/edit?usp=sharing](https://github.com/ecn310/course-project-international-trade-policy/blob/85d3fcfc3fa34bd4af23342995025e3208571bc6/Documentation%20Report%20final.pdf)
