@@ -11,6 +11,7 @@ To test our hypothesis we gathered data from WITS and EUROSTATS to study the pro
 Through our research project, we found that our hypothesis was correct, however, we also discovered a couple of cavities, such as a decrease in the value of EU-US exports during 2020 due to Covid decrease in supply and demand.
 
 #### Attached is our Reaserch Project Report
+- https://github.com/ecn310/course-project-international-trade-policy/blob/1d466b1511f066ec24e6043a1cb2dd4ac49e8ca3/Final%20Paper_What%20are%20the%20impacts%20of%20US%20trade%20policy%20changes%20on%20trade%20with%20the%20European%20Union%3Fpdf.pdf
 - httpse://www.overleaf.com/read/vkndmdyrdhzh#f5c8ca linked here
 
 #### Attached is our documentation
