@@ -1,8 +1,9 @@
 ## Tariffs Between the US and China and the Impacts on EU Exports
 
-#### By Sawyer McFarland, Logan Faulke and Arya R
+#### By Sawyer McFarland, Logan Faulk and Arya R
 
 In this research paper, we strive to answer our research question, "What are the impacts of US tariffs on China-US exports on EU-US exports to the US?"
+https://www.overleaf.com/read/vkndmdyrdhzh#f5c8ca linked here
 
 We hypothesize that imposing US tariffs on Chinese goods in 2019 reduced demand for Chinese products. Due to this reduced demand, there was an increase in demand for European Union exports of the same products to the United States.
 
